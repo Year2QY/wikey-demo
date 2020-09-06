@@ -1,1 +1,1 @@
-# wikey-demo
+# wikey / demo
